@@ -1,4 +1,4 @@
-# Welcome to Sharia Hoque Page
+
 ## Hello I am Sharia
 
 I am majoring in statistics and quantitative modeling and am a senior in Baruch College. Currently I am a member of Baruch Data Science & Analytics Society. I am working on a entrepreneur intern in Js Tax Corp. 
