@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sharia Hoque Pages
 
 You can use the [editor on GitHub](https://github.com/shariahoque01/ctp.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
