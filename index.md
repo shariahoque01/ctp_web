@@ -1,8 +1,12 @@
 # Welcome to Sharia Hoque Page
 ## Hello I am Sharia
 
-I am majoring in statistics and quantitative modeling and am a junior in Baruch College. Currently I am working on a entrepreneur intern in Js Tax Corp. 
-Past: I used to be a member of the undergraduate student government(USG) and actuarial science society in baruch. I used to work in Dollar Tree, was a tutor of a high school student, and was interned in Hospital for special surgery and a project .  I was a member of the Career Readiness Program, which was under a breakthrough tech organization. In this program, I created technical projects to help a certain community. I am also a member of Cuny Startups, where I am launching my business ideas. 
+I am majoring in statistics and quantitative modeling and am a senior in Baruch College. Currently I am a member of Baruch Data Science & Analytics Society. I am working on a entrepreneur intern in Js Tax Corp. 
+
+My relevant experience includes working as a Data Analytics intern at Baruch College where I learned analyzing data by using statistical techniques and assisted Baruch College Starr different employees in order to complete different projects. In addition, I was also a Data Analytics intern at RegAlytics, where I acquired data from primary or secondary data sources and maintained databases which helped to deliver the data in a customizable and easy-to-use format to help companies stay on top of compliance issues. 
+
+I was also a participant of Cuny Startups where I was develping a bussiness idea to launch my startups. I have taken additional micro-credentials in Data Analytics at Laguardia Community College.
+
 
 ### Markdown
 
