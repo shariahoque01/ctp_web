@@ -1,5 +1,5 @@
 # Welcome to Sharia Hoque Page
-##Hello I am Sharia
+## Hello I am Sharia
 
 I am majoring in statistics and quantitative modeling and am a junior in Baruch College. Currently I am working on a entrepreneur intern in Js Tax Corp. 
 Past: I used to be a member of the undergraduate student government(USG) and actuarial science society in baruch. I used to work in Dollar Tree, was a tutor of a high school student, and was interned in Hospital for special surgery and a project .  I was a member of the Career Readiness Program, which was under a breakthrough tech organization. In this program, I created technical projects to help a certain community. I am also a member of Cuny Startups, where I am launching my business ideas. 
