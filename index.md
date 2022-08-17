@@ -3,6 +3,8 @@
 
 I am majoring in statistics and quantitative modeling and am a senior in Baruch College. Currently I am a member of Baruch Data Science & Analytics Society. I am working on a entrepreneur intern in Js Tax Corp. 
 
+### Past Experenice:
+
 My relevant experience includes working as a Data Analytics intern at Baruch College where I learned analyzing data by using statistical techniques and assisted Baruch College Starr different employees in order to complete different projects. In addition, I was also a Data Analytics intern at RegAlytics, where I acquired data from primary or secondary data sources and maintained databases which helped to deliver the data in a customizable and easy-to-use format to help companies stay on top of compliance issues. 
 
 I was also a participant of Cuny Startups where I was develping a bussiness idea to launch my startups. I have taken additional micro-credentials in Data Analytics at Laguardia Community College.
